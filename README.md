@@ -38,3 +38,5 @@ function getBuffer() {
 Не забудьте написать unit-тесты, которые обеспечивают 100% покрытие функций и классов, которые вы тестируете.
 
 ---
+
+[![Build status](https://ci.appveyor.com/api/projects/status/p48qcvgm4uhaqb55?svg=true)](https://ci.appveyor.com/project/Turovae/arraybuffer-buf)
